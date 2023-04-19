@@ -1,0 +1,62 @@
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\bin\Debug\ExportFK.exe.config
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\bin\Debug\ExportFK.exe
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\bin\Debug\ExportFK.pdb
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.AssemblyReference.cache
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.SuggestedBindingRedirects.cache
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.ExportDoc.resources
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.Properties.Resources.resources
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.GenerateResource.cache
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.CoreCompileInputs.cache
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.CopyComplete
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.exe
+D:\_C# Проекты\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.pdb
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\bin\Debug\ExportFK.exe.config
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\bin\Debug\ExportFK.exe
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\bin\Debug\ExportFK.pdb
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.AssemblyReference.cache
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.SuggestedBindingRedirects.cache
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.ExportDoc.resources
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.Properties.Resources.resources
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.GenerateResource.cache
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.CoreCompileInputs.cache
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.CopyComplete
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.exe
+D:\_VS2022\Выгрузка(ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.pdb
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\bin\Debug\ExportFK.exe.config
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\bin\Debug\ExportFK.exe
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\bin\Debug\ExportFK.pdb
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.AssemblyReference.cache
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.SuggestedBindingRedirects.cache
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.ExportDoc.resources
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.Properties.Resources.resources
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.GenerateResource.cache
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.CoreCompileInputs.cache
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.csproj.CopyComplete
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.exe
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\ExportFK\obj\Debug\ExportFK.pdb
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\bin\Debug\ExportFK.exe.config
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\bin\Debug\ExportFK.exe
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\bin\Debug\ExportFK.pdb
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.AssemblyReference.cache
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.SuggestedBindingRedirects.cache
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.ExportDoc.resources
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.Properties.Resources.resources
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.GenerateResource.cache
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.CoreCompileInputs.cache
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.CopyComplete
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.exe
+D:\_C# Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.pdb
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\bin\Debug\ExportFK.exe.config
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\bin\Debug\ExportFK.exe
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\bin\Debug\ExportFK.pdb
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.AssemblyReference.cache
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.SuggestedBindingRedirects.cache
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.ExportDoc.resources
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.Properties.Resources.resources
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.GenerateResource.cache
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.CoreCompileInputs.cache
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.csproj.CopyComplete
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.exe
+D:\_VS2010\_Проекты\Выгрузка(IA-ФК)\ExportFK\obj\Debug\ExportFK.pdb
